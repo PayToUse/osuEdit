@@ -1,11 +1,11 @@
-# osuEdit
-[osu!](https://github.com/ppy/osu) beatmap Editor for Android
+# osu!edit
+An [osu!](https://github.com/ppy/osu) beatmap Editor for Android
 
-Code by [Luscent](https://osu.ppy.sh/users/2688581) ([@luscentos](https://twitter.com/luscentos)) / Design by aly ([@sagwayaya](https://twitter.com/sagwayaya))
+Coded by [Luscent](https://osu.ppy.sh/users/2688581) ([@luscentos](https://twitter.com/luscentos)) / Designed by aly ([@sagwayaya](https://twitter.com/sagwayaya)) / Forked by [LouieNotHere](https://osu.ppy.sh/users/33688478) (formerly PayToUse)
 
-Latest version : **v0.02**
+Latest version : **Beta v0.04**
 
-available path (android) : /storage/osuEdit
+Application path: ``/storage/Emulated/0/osuEdit``
 
 ![](https://i.imgur.com/tBG6LR8.jpg)
 ![](https://i.imgur.com/mXExEsA.jpg)
